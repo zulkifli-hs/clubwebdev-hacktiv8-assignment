@@ -2,7 +2,7 @@
 
 ## 🎯 Tujuan
 
-Peserta membangun REST API sederhana menggunakan Golang dan Gin (boleh menggunakan database) untuk manajemen produk, sumber barang (supplier), dan transaksi penjualan. Peserta juga harus menerapkan validasi input, response JSON yang konsisten, serta testing manual menggunakan Postman atau curl.
+Peserta membangun REST API sederhana menggunakan Golang dan Gin (tida wajib menggunakan database) untuk manajemen produk, sumber barang (supplier), dan transaksi penjualan. Peserta juga harus menerapkan validasi input, response JSON yang konsisten, serta testing manual menggunakan Postman atau curl.
 
 ---
 
